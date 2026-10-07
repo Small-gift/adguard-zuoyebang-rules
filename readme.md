@@ -40,6 +40,8 @@
 或者使用加速连接
 https://gcore.jsdelivr.net/gh/Small-gift/adguard-zuoyebang-rules@main/rules.txt
 
+这些规则是作者本人自己抓包许久才找到的，可以给本项目做个宣传或者点个Star，感谢你对本项目的支持
+
 ## 📋 规则列表（按主域名分组）
 
 ```adguard
