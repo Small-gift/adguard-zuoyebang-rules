@@ -1,0 +1,57 @@
+! Title: 作业帮 & 快对作业 去广告规则
+
+! Description: 拦截作业帮、快对作业等App内的广告、日志、商城推广模块
+
+! Homepage: https://github.com/Small-gift/adguard-zuoyebang-rules
+! Expires: 1 day
+
+! ==========================================
+! 作业帮 & 快对作业 去广告规则
+! ==========================================
+
+! --- 一、广告与追踪拦截 (Ads & Tracking) ---
+||adx.zuoyebang.com^
+||adx.yukeweb.com^
+||selltrack.fengniaojianzhan.com^
+
+! --- 二、VIP与视频解析拦截 (VIP & Video) ---
+||vipvideo-1.cdnjtzy.com^
+||vipvideo-2.cdnjtzy.com^
+||vipvideo-3.cdnjtzy.com^
+||vipvideo.cdnjtzy.com^
+||vip-3.cdnjtzy.com^
+||zyb-vip.cdnjtzy.com^
+||zyb-vip-1.cdnjtzy.com^
+||zyb-vip-2.cdnjtzy.com^
+||zyb-vip-3.cdnjtzy.com^
+||apivip.kuaiduizuoye.com^
+||vip.kuaiduizuoye.com^
+||apivip.zuoyebang.com^
+||vip.zuoyebang.com^
+||viprec.zuoyebang.com^
+
+! --- 三、商城与销售推广 (Mall & Promotion) ---
+||sellgoods-z.cdnjtzy.com^
+||sellgoods-z-1.cdnjtzy.com^
+||sell.cdnjtzy.com^
+||sell-3.cdnjtzy.com^
+||sell-ssr.cdnjtzy.com^
+||sell-ssr-1.cdnjtzy.com^
+||sell-ssr-2.cdnjtzy.com^
+||sell-ssr-3.cdnjtzy.com^
+||mall-ssr.cdnjtzy.com^
+||mall.zuoyebang.com^
+
+! --- 四、营销活动与用户内容 (Activities & UGC) ---
+||activities.zuoyebang.com^
+||competition.zuoyebang.com^
+||ugc.zuoyebang.com^
+||user-vue.zuoyebang.com^
+
+! --- 五、第三方组件与其它 (Third-party & Others) ---
+||fengniaojianzhan.com^
+||fengniaocdn.cdnjtzy.com^
+||fengniao.bangbangkids.cn^
+||app.zhaoqiqslx.com^
+
+! Ai太好用了你们知道吗
