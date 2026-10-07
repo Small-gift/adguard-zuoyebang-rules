@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📖 如何抓取 AdGuard 过滤日志
-    url: https://adguard.com/zh_cn/blog/how-to-check-filtering-log.html
+    url: https://adguard.com/kb/zh-CN/
     about: 提交广告漏拦或误杀前，请先阅读此官方教程，学会如何导出标准日志。
   - name: 💬 疑问与讨论
-    url: https://github.com/你的用户名/你的仓库名/discussions
+    url: https://github.com/Small-gift/adguard-zuoyebang-rules/discussions
     about: 如果您有关于规则使用、功能特性的疑问，欢迎在此交流讨论。
