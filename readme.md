@@ -40,6 +40,12 @@
 或者使用加速连接
 https://gcore.jsdelivr.net/gh/Small-gift/adguard-zuoyebang-rules@main/rules.txt
 
+## 🤝 贡献与反馈
+如果您发现新的广告域名或规则失效，欢迎提交 Issues 或 Pull Requests。
+
+## 📄 开源协议
+本项目基于 MIT License 协议开源。
+
 这些规则是作者本人自己抓包许久才找到的，可以给本项目做个宣传或者点个Star，感谢你对本项目的支持
 
 ## 📋 规则列表（按主域名分组）
