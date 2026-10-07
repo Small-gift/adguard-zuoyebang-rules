@@ -37,6 +37,8 @@
 1. 在 AdGuard 中进入 **设置** -> **过滤** -> **过滤器**->**自定义过滤器**。
 2. 点击 **添加自定义过滤器** -> **从 URL 添加**。
 3. 输入规则 Raw 链接https://raw.githubusercontent.com/Small-gift/adguard-zuoyebang-rules/main/rules.txt
+或者使用加速连接
+https://gcore.jsdelivr.net/gh/Small-gift/adguard-zuoyebang-rules@main/rules.txt
 
 ## 📋 规则列表（按主域名分组）
 
