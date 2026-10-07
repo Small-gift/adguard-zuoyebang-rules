@@ -32,11 +32,11 @@
 3. 点击右上角菜单，选择 **导入** 或直接 **添加**。
 4. 将下方的规则列表复制并粘贴进去，保存即可。
 
-### 方法二：通过订阅链接（适用于 GitHub 托管）
-如果您将本规则托管至 GitHub，可以使用 Raw 链接直接订阅：
-1. 在 AdGuard 中进入 **设置** -> **内容拦截** -> **过滤器**。
-2. 点击 **添加过滤器** -> **从 URL 添加**。
-3. 输入您的规则 Raw 链接（例如：`https://raw.githubusercontent.com/Small-gift/adguard-zuoyebang-rules/main/rules.txt`）。
+### 方法二：通过订阅链接
+可以使用 Raw 链接直接订阅：
+1. 在 AdGuard 中进入 **设置** -> **过滤** -> **过滤器**->**自定义过滤器**。
+2. 点击 **添加自定义过滤器** -> **从 URL 添加**。
+3. 输入规则 Raw 链接https://raw.githubusercontent.com/Small-gift/adguard-zuoyebang-rules/main/rules.txt。
 
 ## 📋 规则列表（按主域名分组）
 
@@ -89,5 +89,6 @@
 ||user-vue.zuoyebang.com^
 ||vip.zuoyebang.com^
 ||viprec.zuoyebang.com^
+```
 
 Ai太好用了你们知道吗
